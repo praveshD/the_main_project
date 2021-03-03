@@ -1,2 +1,2 @@
 # the_main_project
-the most advanced accounting software
+The most advanced accounting software
